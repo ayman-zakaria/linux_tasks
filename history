@@ -878,3 +878,8 @@
   876  pcmanfm &
   877  Enough@123
   878  history >> h
+
+mal -s "history" -A history
+TO:
+Cc:
+history of commands
